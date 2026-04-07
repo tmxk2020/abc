@@ -34,6 +34,15 @@
 ![图片7](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/7.png)
 ![图片8](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/8.png)
 ![图片9](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/9.png)
+## 使用说明
+
+目前本项目仅提供 **TXT 格式订阅链接**，用于获取相关数据内容。
+
+用户可通过播放器或相关工具导入 TXT 链接进行使用，不提供其他格式（如 M3U、接口 API 等）。
+
+后续是否增加其他格式支持，将根据实际情况决定，暂无具体计划。
+
+请确保在合法合规的前提下使用本项目提供的订阅内容。
 
 # 版权说明
 ## LICENSE
