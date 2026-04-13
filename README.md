@@ -5,6 +5,7 @@
 ![图片2](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/11.jpg)
 ![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/12.jpg)
 # Cloudflare Worker 部署
+## Cloudflare注册地址 https://dash.cloudflare.com
 
 复制代码文件：`worker.js` 在Cloudflare 创建`Worker` 链接数据库自动更新订阅资源
 
