@@ -18,3 +18,5 @@ http://113.64.147.215:8081/hls/1/index.m3u8
 113.64.147.188:8081
 113.64.147.75:8081
 113.64.147.81:8081
+
+广东电信组播列表：https://raw.githubusercontent.com/5d5d5f5f5f/10102/refs/heads/main/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt
