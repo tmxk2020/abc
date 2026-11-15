@@ -1,42 +1,21 @@
 #  📺 央视频
 
-https://8w97qbaxj0.apps.bot-hosting.cloud
+服务器1：https://8w97qbaxj0.apps.bot-hosting.cloud
 
-https://n242qtzpk9.apps.bot-hosting.cloud
+服务器2：https://n242qtzpk9.apps.bot-hosting.cloud
 
-https://jo2vip84bj.apps.bot-hosting.cloud
+服务器3：https://jo2vip84bj.apps.bot-hosting.cloud
 
-
-# ⚽️🏆 体育赛事｜看球通知
-
-🔥 你1波，我1波！
-
-体育赛事直播内容已更新，喜欢看球的朋友可以使用下面的体育赛事专用订阅。
-
-📺 体育赛事 TXT订阅：
-
-https://xymm.tv12.xyz/live.txt=你的授权码
-
-📺 体育赛事 M3U订阅：
-
-https://xymm.tv12.xyz/live.m3u=你的授权码
-
-# 例如：https://xymm.tv12.xyz/live.txt=123456
+服务器4：https://xymm01.kdns.fr
 
 
-🔑 授权码领取：
+
+
+🔑 订阅授权码领取：
 
 http://45.192.97.170:5222/2
 
-⚠️ 特别说明：
 
-🔸 上面的「授权码领取」链接，只是用于领取/获取授权码。
-
-🔸 授权码领取页面里的内容，与本次体育赛事看球内容不是同一个订阅。
-
-🔸 体育赛事看球请使用上面的 TXT / M3U 体育赛事订阅地址。
-
-🔸 以前已经领取过授权码的老用户，无需重新领取，原授权码继续有效，直接替换新的订阅地址即可。
 
 
 ## ~~TXT 和 M3U取消变量值访问~~  修改时间：0903  22:30
@@ -50,7 +29,7 @@ http://45.192.97.170:5222/2
 
 
 ## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
-## 交流社区：http://45.192.97.170:8103
+
 ## 0507 11:40 合集 安卓设备 OK壳专用订阅，其他软件用不了
 安卓设备OK壳下载：
 ## TV版（横版）
